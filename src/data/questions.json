@@ -1,0 +1,1172 @@
+[
+    {
+        "id": 1,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Quelle force s'oppose à la portance en vol en palier ?",
+        "choix": [
+            "La traînée",
+            "Le poids",
+            "La poussée",
+            "La traction"
+        ],
+        "reponse_correcte": 1,
+        "explication": "En vol en palier stabilisé, la portance équilibre le poids de l'aéronef."
+    },
+    {
+        "id": 2,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Quel axe est contrôlé par les ailerons ?",
+        "choix": [
+            "L'axe de tangage",
+            "L'axe de lacet",
+            "L'axe de roulis",
+            "L'axe de piste"
+        ],
+        "reponse_correcte": 2,
+        "explication": "Les ailerons, situés sur les ailes, permettent de contrôler l'inclinaison latérale de l'avion, c'est-à-dire le roulis."
+    },
+    {
+        "id": 3,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Qu'est-ce que la finesse d'un avion ?",
+        "choix": [
+            "Le rapport Portance / Traînée",
+            "Le rapport Poids / Poussée",
+            "La vitesse maximale",
+            "L'épaisseur de l'aile"
+        ],
+        "reponse_correcte": 0,
+        "explication": "La finesse est le rapport entre la portance et la traînée. Elle indique la distance qu'un avion peut planer pour une hauteur donnée."
+    },
+    {
+        "id": 4,
+        "matiere": "Étude des Aéronefs",
+        "question": "Quel instrument indique l'altitude de l'avion ?",
+        "choix": [
+            "L'anémomètre",
+            "Le variomètre",
+            "L'altimètre",
+            "Le compas"
+        ],
+        "reponse_correcte": 2,
+        "explication": "L'altimètre mesure la pression atmosphérique pour indiquer l'altitude par rapport à une référence."
+    },
+    {
+        "id": 5,
+        "matiere": "Étude des Aéronefs",
+        "question": "Quelle est la fonction principale des volets hypersustentateurs ?",
+        "choix": [
+            "Augmenter la vitesse",
+            "Diminuer la traînée",
+            "Augmenter la portance à basse vitesse",
+            "Réduire la consommation"
+        ],
+        "reponse_correcte": 2,
+        "explication": "Les volets permettent d'augmenter la courbure de l'aile et donc la portance, ce qui est crucial pour le décollage et l'atterrissage à basse vitesse."
+    },
+    {
+        "id": 6,
+        "matiere": "Étude des Aéronefs",
+        "question": "Comment s'appelle la structure principale du fuselage d'un avion moderne ?",
+        "choix": [
+            "Treillis",
+            "Monocoque ou semi-monocoque",
+            "Bois et toile",
+            "Acier trempé"
+        ],
+        "reponse_correcte": 1,
+        "explication": "La plupart des avions modernes utilisent une structure semi-monocoque où le revêtement participe à la résistance de la structure."
+    },
+    {
+        "id": 7,
+        "matiere": "Météorologie",
+        "question": "Dans quelle couche de l'atmosphère volent la plupart des avions de ligne ?",
+        "choix": [
+            "Troposphère et basse Stratosphère",
+            "Mésosphère",
+            "Thermosphère",
+            "Exosphère"
+        ],
+        "reponse_correcte": 0,
+        "explication": "Les avions de ligne volent généralement à la limite entre la troposphère et la stratosphère (tropopause) pour éviter les turbulences et réduire la traînée."
+    },
+    {
+        "id": 8,
+        "matiere": "Météorologie",
+        "question": "Que signifie l'abréviation METAR ?",
+        "choix": [
+            "Météo Arrivée",
+            "Meteorological Aerodrome Report",
+            "Mesure de Température Aérienne",
+            "Message Temporaire Aérien"
+        ],
+        "reponse_correcte": 1,
+        "explication": "Le METAR est un rapport d'observation météorologique régulière pour l'aviation."
+    },
+    {
+        "id": 9,
+        "matiere": "Météorologie",
+        "question": "Quel nuage est associé aux orages et est dangereux pour l'aéronautique ?",
+        "choix": [
+            "Le Cumulus",
+            "Le Stratus",
+            "Le Cumulonimbus",
+            "Le Cirrus"
+        ],
+        "reponse_correcte": 2,
+        "explication": "Le Cumulonimbus (Cb) est le nuage d'orage par excellence, associé à de fortes turbulences, de la grêle et du foudroiement."
+    },
+    {
+        "id": 10,
+        "matiere": "Navigation, Sécurité et Réglementation",
+        "question": "Quelle est la couleur du feu de navigation situé à l'aile gauche ?",
+        "choix": [
+            "Vert",
+            "Rouge",
+            "Blanc",
+            "Jaune"
+        ],
+        "reponse_correcte": 1,
+        "explication": "Le feu de navigation gauche est Rouge, le droit est Vert, et le feu de queue est Blanc."
+    },
+    {
+        "id": 11,
+        "matiere": "Navigation, Sécurité et Réglementation",
+        "question": "Quelle est l'unité standard de distance en aéronautique ?",
+        "choix": [
+            "Le kilomètre",
+            "Le mile terrestre",
+            "Le mille marin (nautique)",
+            "Le pied"
+        ],
+        "reponse_correcte": 2,
+        "explication": "Le mille marin (NM) est l'unité de distance standard. 1 NM = 1852 mètres."
+    },
+    {
+        "id": 12,
+        "matiere": "Navigation, Sécurité et Réglementation",
+        "question": "Qui est le commandant de bord ?",
+        "choix": [
+            "Le pilote le plus âgé",
+            "Le pilote désigné responsable du vol",
+            "Le contrôleur aérien",
+            "Le propriétaire de l'avion"
+        ],
+        "reponse_correcte": 1,
+        "explication": "Le commandant de bord est le pilote désigné par l'exploitant pour être responsable de la conduite et de la sécurité du vol."
+    },
+    {
+        "id": 13,
+        "matiere": "Histoire de l'Aéronautique",
+        "question": "Qui a réalisé la première traversée de la Manche en avion en 1909 ?",
+        "choix": [
+            "Louis Blériot",
+            "Roland Garros",
+            "Clément Ader",
+            "Les frères Wright"
+        ],
+        "reponse_correcte": 0,
+        "explication": "Louis Blériot a traversé la Manche le 25 juillet 1909 à bord du Blériot XI."
+    },
+    {
+        "id": 14,
+        "matiere": "Histoire de l'Aéronautique",
+        "question": "Quel était le nom du premier avion supersonique commercial ?",
+        "choix": [
+            "Boeing 747",
+            "Concorde",
+            "Airbus A380",
+            "Caravelle"
+        ],
+        "reponse_correcte": 1,
+        "explication": "Le Concorde, développé conjointement par la France et le Royaume-Uni, a été le premier (et l'un des seuls) avions de ligne supersoniques."
+    },
+    {
+        "id": 15,
+        "matiere": "Histoire de l'Aéronautique",
+        "question": "En quelle année a eu lieu le premier vol humain motorisé et contrôlé (Frères Wright) ?",
+        "choix": [
+            "1890",
+            "1903",
+            "1914",
+            "1927"
+        ],
+        "reponse_correcte": 1,
+        "explication": "Les frères Wright ont réalisé le premier vol motorisé contrôlé le 17 décembre 1903 à Kitty Hawk."
+    },
+    {
+        "id": 16,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Quel est l'effet de la sortie des volets sur la traînée ?",
+        "choix": [
+            "Elle diminue",
+            "Elle reste constante",
+            "Elle augmente",
+            "Elle s'annule"
+        ],
+        "reponse_correcte": 2,
+        "explication": "La sortie des volets augmente la portance mais aussi la traînée, ce qui permet de réduire la vitesse d'approche."
+    },
+    {
+        "id": 17,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Qu'est-ce que le décrochage ?",
+        "choix": [
+            "Une perte soudaine de portance",
+            "Une augmentation de la vitesse",
+            "Un virage serré",
+            "L'arrêt du moteur"
+        ],
+        "reponse_correcte": 0,
+        "explication": "Le décrochage est une perte brutale de portance lorsque l'angle d'incidence de l'aile devient trop important."
+    },
+    {
+        "id": 18,
+        "matiere": "Étude des Aéronefs",
+        "question": "A quoi sert l'empennage horizontal ?",
+        "choix": [
+            "A la stabilité en lacet",
+            "A la stabilité en tangage",
+            "A la stabilité en roulis",
+            "A porter le moteur"
+        ],
+        "reponse_correcte": 1,
+        "explication": "L'empennage horizontal assure la stabilité longitudinale (tangage) de l'avion."
+    },
+    {
+        "id": 19,
+        "matiere": "Étude des Aéronefs",
+        "question": "Quel est le rôle du train d'atterrissage ?",
+        "choix": [
+            "Diriger l'avion en vol",
+            "Supporter l'avion au sol et amortir l'impact",
+            "Stocker le carburant",
+            "Refroidir le moteur"
+        ],
+        "reponse_correcte": 1,
+        "explication": "Le train d'atterrissage permet le roulage, le décollage et l'atterrissage en amortissant les chocs."
+    },
+    {
+        "id": 20,
+        "matiere": "Météorologie",
+        "question": "Qu'est-ce qu'une dépression ?",
+        "choix": [
+            "Une zone de haute pression",
+            "Une zone de basse pression",
+            "Un vent violent",
+            "Un type de nuage"
+        ],
+        "reponse_correcte": 1,
+        "explication": "Une dépression est une zone où la pression atmosphérique est plus basse que celle des zones environnantes."
+    },
+    {
+        "id": 21,
+        "matiere": "Météorologie",
+        "question": "Quel est le danger principal du brouillard pour un pilote ?",
+        "choix": [
+            "La turbulence",
+            "Le givrage",
+            "La réduction de visibilité",
+            "La foudre"
+        ],
+        "reponse_correcte": 2,
+        "explication": "Le brouillard réduit considérablement la visibilité, rendant le décollage et l'atterrissage dangereux voire impossibles."
+    },
+    {
+        "id": 22,
+        "matiere": "Navigation, Sécurité et Réglementation",
+        "question": "Que signifie VFR ?",
+        "choix": [
+            "Vol Fréquent Régulier",
+            "Visual Flight Rules",
+            "Vitesse Finale Réelle",
+            "Vent Fort Rafaleux"
+        ],
+        "reponse_correcte": 1,
+        "explication": "VFR signifie Visual Flight Rules (Règles de Vol à Vue), par opposition à IFR (Instrument Flight Rules)."
+    },
+    {
+        "id": 23,
+        "matiere": "Navigation, Sécurité et Réglementation",
+        "question": "Quelle est la priorité entre deux avions en vol ?",
+        "choix": [
+            "Le plus rapide a priorité",
+            "Le plus gros a priorité",
+            "Celui qui vient de droite a priorité",
+            "Celui qui monte a priorité"
+        ],
+        "reponse_correcte": 2,
+        "explication": "En général, sauf règles spécifiques (comme le dépassement), l'aéronef qui vient de la droite a la priorité."
+    },
+    {
+        "id": 24,
+        "matiere": "Histoire de l'Aéronautique",
+        "question": "Qui a traversé l'Atlantique Nord sans escale en 1927 ?",
+        "choix": [
+            "Charles Lindbergh",
+            "Amelia Earhart",
+            "Jean Mermoz",
+            "Saint-Exupéry"
+        ],
+        "reponse_correcte": 0,
+        "explication": "Charles Lindbergh a réalisé la première traversée de l'Atlantique Nord en solitaire et sans escale à bord du Spirit of St. Louis."
+    },
+    {
+        "id": 25,
+        "matiere": "Histoire de l'Aéronautique",
+        "question": "Quel avion de chasse français est célèbre pour son aile delta ?",
+        "choix": [
+            "Le Spitfire",
+            "Le Mirage III",
+            "Le Mustang",
+            "Le Zero"
+        ],
+        "reponse_correcte": 1,
+        "explication": "Le Mirage III, construit par Dassault, est emblématique pour sa configuration en aile delta."
+    },
+    {
+        "id": 26,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Comment appelle-t-on la résistance de l'air à l'avancement ?",
+        "choix": [
+            "La portance",
+            "La traînée",
+            "La poussée",
+            "Le poids"
+        ],
+        "reponse_correcte": 1,
+        "explication": "La traînée est la force aérodynamique qui s'oppose au mouvement de l'aéronef dans l'air."
+    },
+    {
+        "id": 27,
+        "matiere": "Étude des Aéronefs",
+        "question": "Quel moteur équipe la plupart des petits avions de tourisme ?",
+        "choix": [
+            "Moteur à réaction",
+            "Turbopropulseur",
+            "Moteur à pistons",
+            "Moteur électrique"
+        ],
+        "reponse_correcte": 2,
+        "explication": "Les moteurs à pistons (souvent à plat) sont les plus courants sur les avions légers pour leur simplicité et leur coût."
+    },
+    {
+        "id": 28,
+        "matiere": "Météorologie",
+        "question": "Qu'est-ce que l'atmosphère standard (ISA) au niveau de la mer ?",
+        "choix": [
+            "15°C et 1013.25 hPa",
+            "0°C et 1000 hPa",
+            "20°C et 1013 hPa",
+            "10°C et 1020 hPa"
+        ],
+        "reponse_correcte": 0,
+        "explication": "L'atmosphère standard définit une température de 15°C et une pression de 1013.25 hPa au niveau de la mer."
+    },
+    {
+        "id": 29,
+        "matiere": "Navigation, Sécurité et Réglementation",
+        "question": "A quelle fréquence doit-on renouveler sa visite médicale pour une licence PPL (moins de 40 ans) ?",
+        "choix": [
+            "Tous les ans",
+            "Tous les 2 ans",
+            "Tous les 5 ans",
+            "Jamais"
+        ],
+        "reponse_correcte": 2,
+        "explication": "Pour un pilote privé (PPL) de moins de 40 ans, la validité du certificat médical de classe 2 est de 60 mois (5 ans)."
+    },
+    {
+        "id": 30,
+        "matiere": "Histoire de l'Aéronautique",
+        "question": "Quel est le premier avion à réaction commercial ?",
+        "choix": [
+            "Boeing 707",
+            "De Havilland Comet",
+            "Caravelle",
+            "Tupolev Tu-104"
+        ],
+        "reponse_correcte": 1,
+        "explication": "Le De Havilland Comet britannique fut le premier avion de ligne à réaction à entrer en service en 1952."
+    },
+    {
+        "id": 31,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Quelle gouverne permet de faire monter ou descendre l'avion ?",
+        "choix": [
+            "La gouverne de direction",
+            "Les ailerons",
+            "La gouverne de profondeur",
+            "Les volets"
+        ],
+        "reponse_correcte": 2,
+        "explication": "La gouverne de profondeur, située sur l'empennage horizontal, contrôle l'assiette (tangage) de l'avion."
+    },
+    {
+        "id": 32,
+        "matiere": "Étude des Aéronefs",
+        "question": "A quoi sert l'hélice ?",
+        "choix": [
+            "A freiner l'avion",
+            "A transformer la puissance moteur en traction",
+            "A refroidir le pilote",
+            "A équilibrer l'avion"
+        ],
+        "reponse_correcte": 1,
+        "explication": "L'hélice transforme l'énergie mécanique du moteur en force de traction aérodynamique."
+    },
+    {
+        "id": 33,
+        "matiere": "Météorologie",
+        "question": "Quel est le sens de rotation des vents autour d'une dépression dans l'hémisphère nord ?",
+        "choix": [
+            "Sens horaire",
+            "Sens anti-horaire",
+            "Du nord au sud",
+            "Du sud au nord"
+        ],
+        "reponse_correcte": 1,
+        "explication": "Dans l'hémisphère nord, les vents tournent dans le sens inverse des aiguilles d'une montre autour d'une dépression."
+    },
+    {
+        "id": 34,
+        "matiere": "Navigation, Sécurité et Réglementation",
+        "question": "Quelle est la couleur des pistes sur une carte aéronautique ?",
+        "choix": [
+            "Rouge",
+            "Bleu",
+            "Noir ou Gris",
+            "Vert"
+        ],
+        "reponse_correcte": 2,
+        "explication": "Les pistes sont généralement représentées en noir ou gris foncé sur les cartes pour être bien visibles."
+    },
+    {
+        "id": 35,
+        "matiere": "Histoire de l'Aéronautique",
+        "question": "Quel pilote français est un as de la Première Guerre mondiale ?",
+        "choix": [
+            "René Fonck",
+            "Antoine de Saint-Exupéry",
+            "Jean Mermoz",
+            "Maryse Bastié"
+        ],
+        "reponse_correcte": 0,
+        "explication": "René Fonck est l'as des as allié de la Première Guerre mondiale avec 75 victoires homologuées."
+    },
+    {
+        "id": 36,
+        "matiere": "Météorologie",
+        "question": "Une information sur une carte stipule l'ISO 0°C au FL80. Vous devez voler au FL60. En considérant le gradient standard (-2°C/1000 ft), quelle est la bonne affirmation?",
+        "choix": [
+            "Le vol se fera à +4°C.",
+            "Le vol se fera à -4°C.",
+            "Le vol se fera à -2°C.",
+            "Le vol se fera à +2°C."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 37,
+        "matiere": "Météorologie",
+        "question": "Les deux principaux composants de l'air sec sont :",
+        "choix": [
+            "le diazote et le dioxygène.",
+            "l'oxygène et le gaz carbonique.",
+            "l'azote et l'hélium.",
+            "l'oxygène et l'hydrogène."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 38,
+        "matiere": "Météorologie",
+        "question": "La transformation de l'eau de l'état gazeux à l'état liquide s'appelle :",
+        "choix": [
+            "la fusion.",
+            "la sublimation.",
+            "l'évaporation.",
+            "la condensation."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 39,
+        "matiere": "Météorologie",
+        "question": "Une trouée de Foehn :",
+        "choix": [
+            "est un endroit favorable à la pratique de la voltige aérienne.",
+            "est une trouée de ciel clair associée à l'apparition d'un Cumulonimbus qui capte toute l'humidité de l'air.",
+            "est une zone de ciel clair sous le vent d'un relief par suite d'asséchement de la masse d'air.",
+            "est une zone de ciel clair liée à de hautes pressions à l'arrière d'un massif montagneux."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 40,
+        "matiere": "Météorologie",
+        "question": "Parmi les éléments suivants, une conséquence possible du givrage est:",
+        "choix": [
+            "un gain d'altitude.",
+            "une altération des profils aérodynamiques.",
+            "une amélioration des performances de l'aéronef.",
+            "une diminution de la traînée."
+        ],
+        "reponse_correcte": 1,
+        "explication": ""
+    },
+    {
+        "id": 41,
+        "matiere": "Météorologie",
+        "question": "Lorsque le vent est fort au sol :",
+        "choix": [
+            "il y a peu de turbulences dans les basses couches de l'atmosphère.",
+            "le ciel va systématiquement se dégager.",
+            "il est nul en altitude.",
+            "des turbulences dues aux imperfections du sol et aux obstacles se développent en basses couches."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 42,
+        "matiere": "Météorologie",
+        "question": "Le mistral est un vent :",
+        "choix": [
+            "du sud sur Marseille.",
+            "du sud-ouest qui souffle sur le Languedoc.",
+            "du nord-ouest qui souffle sur le Languedoc.",
+            "du nord qui souffle dans la vallée du Rhône."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 43,
+        "matiere": "Météorologie",
+        "question": "« Marais barométrique » désigne :",
+        "choix": [
+            "une zone où la pression varie peu.",
+            "une zone ou un axe de basses pressions.",
+            "une zone ou un axe de hautes pressions.",
+            "une zone où le gradient de pression est très élevé."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 44,
+        "matiere": "Météorologie",
+        "question": "Un brouillard qui se forme après une nuit fraîche, sans nuages et sans vent, est un brouillard :",
+        "choix": [
+            "d'advection.",
+            "de rayonnement.",
+            "d'évaporation.",
+            "de convection."
+        ],
+        "reponse_correcte": 1,
+        "explication": ""
+    },
+    {
+        "id": 45,
+        "matiere": "Météorologie",
+        "question": "Sur une carte de pression, une ligne qui joint les points d'égale pression est nommée :",
+        "choix": [
+            "une isotherme.",
+            "une isocline.",
+            "une isohypse.",
+            "une isobare."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 46,
+        "matiere": "Météorologie",
+        "question": "Un front froid :",
+        "choix": [
+            "est une surface séparant un air froid en mouvement d'un air plus chaud qu'il soulève.",
+            "est l'arrivée d'un air froid sur une surface polaire glacée.",
+            "est l'arrivée d'un air froid et lourd qui stabilise la basse couche atmosphérique.",
+            "est généralement associé à des brises marines d'ouest."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 47,
+        "matiere": "Météorologie",
+        "question": "Les courants de vent puissants que l'on rencontre à très haute altitude sont nommés:",
+        "choix": [
+            "jet-stream.",
+            "jet-lag.",
+            "tornado.",
+            "Rafale."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 48,
+        "matiere": "Météorologie",
+        "question": "La couche de l'atmosphère où se concentrent les phénomènes météorologiques est la :",
+        "choix": [
+            "stratosphère.",
+            "troposphère.",
+            "mésosphère.",
+            "thermosphère."
+        ],
+        "reponse_correcte": 1,
+        "explication": ""
+    },
+    {
+        "id": 49,
+        "matiere": "Météorologie",
+        "question": "Le principal danger induit par le brouillard sur le vol est:",
+        "choix": [
+            "la formation de givrage possible en toutes saisons.",
+            "la turbulence associée.",
+            "la diminution de la visibilité.",
+            "le risque de foudroiement."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 50,
+        "matiere": "Météorologie",
+        "question": "Dans l'atmosphère standard, la température au niveau de la mer est de:",
+        "choix": [
+            "0°C.",
+            "10°C.",
+            "15°C.",
+            "20°C."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 51,
+        "matiere": "Météorologie",
+        "question": "À 4 000 m, le capteur du ballon sonde relève une température de -1°C. Nous en concluons que l'atmosphère à 4 000 m est:",
+        "choix": [
+            "plus froide que l'atmosphère standard.",
+            "conforme à l'atmosphère standard.",
+            "plus chaude que l'atmosphère standard.",
+            "plus riche en dioxygène qu'au niveau du sol."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 52,
+        "matiere": "Météorologie",
+        "question": "La brise de pente (montante) se forme en région :",
+        "choix": [
+            "montagneuse et de nuit.",
+            "côtière et de nuit.",
+            "montagneuse et de jour.",
+            "côtière et de jour."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 53,
+        "matiere": "Météorologie",
+        "question": "Je monte dans l'avion au matin. L'altimètre réglé sur le QNH d'hier soir indique une altitude supérieure à celle de l'aérodrome. Cela signifie que :",
+        "choix": [
+            "La pression sur l'aérodrome a baissé pendant la nuit.",
+            "La température a baissé sur l'aérodrome pendant la nuit.",
+            "La pression sur l'aérodrome a augmenté pendant la nuit.",
+            "L'altimètre est forcément devenu défectueux."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 54,
+        "matiere": "Météorologie",
+        "question": "Un vent du 090/20 vient :",
+        "choix": [
+            "de l'ouest à une vitesse de 20 kt.",
+            "de l'est à une vitesse de 20 kt.",
+            "de l'est à une vitesse de 20 km/h-1.",
+            "de l'ouest à une vitesse de 20 km/h-1."
+        ],
+        "reponse_correcte": 1,
+        "explication": ""
+    },
+    {
+        "id": 55,
+        "matiere": "Météorologie",
+        "question": "Une carte TEMSI est valide au 14/10/2019 15 UTC. Sachant que la France était en « heure d'été » à cette date, à quelle heure légale correspond cette prévision ?",
+        "choix": [
+            "13 h.",
+            "14 h.",
+            "16 h.",
+            "17 h."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 56,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Pour un aéronef en vol en palier stabilisé (vol horizontal stabilisé), quelle proposition est correcte ?",
+        "choix": [
+            "La portance est légèrement inférieure au poids.",
+            "La portance équilibre la traînée.",
+            "La portance et la traction sont identiques.",
+            "La portance équilibre le poids."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 57,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Les dispositifs hypersustentateurs ont pour but :",
+        "choix": [
+            "de diminuer la portance à vitesse élevée (par exemple: pour une descente d'urgence).",
+            "d'augmenter la vitesse de décrochage pour certaines manœuvres.",
+            "de diminuer la traînée pour certaines manœuvres.",
+            "de diminuer la vitesse de décrochage dans certaines phases de vol (par exemple: au décollage et à l'atterrissage)."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 58,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Le facteur de charge subi par un aéronef en virage en palier :",
+        "choix": [
+            "diminue avec l'inclinaison.",
+            "est toujours égal à 2.",
+            "ne dépend que du type d'aéronef.",
+            "augmente avec l'inclinaison."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 59,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Le profil d'une aile est lisse lorsque:",
+        "choix": [
+            "les becs de bord d'attaque et les volets sont rentrés.",
+            "les becs de bord d'attaque sont rentrés et les volets sont sortis.",
+            "les becs de bord d'attaque sont sortis et les volets sont rentrés.",
+            "les becs de bord d'attaque et les volets sont sortis."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 60,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Pour calculer la distance de décollage d'un avion, il faut prendre en compte :",
+        "choix": [
+            "la masse de l'avion uniquement.",
+            "la température, l'altitude de l'aéroport, la masse de l'avion.",
+            "l'altitude de l'aéroport uniquement.",
+            "aucun de ces éléments."
+        ],
+        "reponse_correcte": 1,
+        "explication": ""
+    },
+    {
+        "id": 61,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "La traînée induite est une conséquence de :",
+        "choix": [
+            "l'interaction du fuselage et de l'aile.",
+            "la rotation de l'hélice.",
+            "la différence de pression entre l'intrados et l'extrados.",
+            "l'usage d'un train fixe."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 62,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "L'incidence d'une aile est positive lorsque :",
+        "choix": [
+            "l'écoulement est parallèle à la corde du profil.",
+            "l'écoulement attaque le profil du côté de l'extrados.",
+            "l'écoulement attaque le profil du côté de l'intrados.",
+            "l'aéronef est en vol dos stabilisé."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 63,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Lors d'une ressource (tirer sur le manche), le facteur de charge :",
+        "choix": [
+            "augmente.",
+            "diminue et la vitesse de décrochage augmente.",
+            "reste constant.",
+            "diminue ainsi que la vitesse de décrochage."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 64,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Ce qui assure la plus grande stabilité d'un aéronef est :",
+        "choix": [
+            "le dièdre et la flèche positifs.",
+            "le dièdre négatif et la flèche nulle.",
+            "le dièdre et la flèche négatifs.",
+            "le dièdre positif et la flèche nulle."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 65,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "L'angle d'incidence d'un profil est l'angle formé entre :",
+        "choix": [
+            "la corde du profil et l'horizontale.",
+            "l'axe longitudinal de l'avion et la direction du vent relatif.",
+            "la direction du vent relatif et l'horizontale.",
+            "la corde du profil et la direction du vent relatif."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 66,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Lorsqu'un aéronef est centré avant :",
+        "choix": [
+            "sa stabilité augmente.",
+            "sa maniabilité augmente.",
+            "sa maniabilité et sa stabilité ne sont pas modifiées.",
+            "sa stabilité diminue."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 67,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "L'assistance gravitationnelle:",
+        "choix": [
+            "permet le retour du lanceur sur Terre.",
+            "est une ligne téléphonique entre l'ISS et la Terre en cas de besoin d'assistance.",
+            "est utilisée comme « moteur » afin d'accélérer les sondes lors de leurs voyages interstellaires.",
+            "est un propulseur."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 68,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "La corde de profil de l'aile est le segment qui joint:",
+        "choix": [
+            "l'emplanture à l'extrémité de l'aile.",
+            "les deux extrémités de l'aile.",
+            "le bord d'attaque au bord de fuite.",
+            "la partie la plus large entre l'intrados et l'extrados."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 69,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "L'origine de la sustentation de l'aile résulte de l'apparition:",
+        "choix": [
+            "d'une dépression à l'extrados et à l'intrados.",
+            "d'une surpression à l'intrados et à l'extrados.",
+            "d'une dépression à l'extrados et d'une surpression à l'intrados.",
+            "d'une surpression à l'extrados et d'une dépression à l'intrados."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 70,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "L'angle de pente est:",
+        "choix": [
+            "l'angle entre l'horizontale et l'axe longitudinal de l'avion.",
+            "l'angle entre la corde de profil de l'aile et le vent relatif.",
+            "l'angle affiché sur l'horizon artificiel du pilote.",
+            "l'angle entre l'horizontale et la trajectoire réelle de l'avion."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 71,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "En vol, si le pilote tire fortement sur le manche, le facteur de charge :",
+        "choix": [
+            "augmente.",
+            "diminue.",
+            "reste constant.",
+            "devient nul."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 72,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Parmi les éléments suivants, celui qui a une influence sur la position du centre de gravité est:",
+        "choix": [
+            "la trajectoire (palier, montée, descente).",
+            "la vitesse.",
+            "le niveau de carburant dans les réservoirs.",
+            "l'inclinaison."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 73,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "En soufflerie, si on multiplie par 3 la vitesse du vent relatif, la valeur de la portance est :",
+        "choix": [
+            "multipliée par 3.",
+            "multipliée par 9.",
+            "multipliée par 6.",
+            "multipliée par 12."
+        ],
+        "reponse_correcte": 1,
+        "explication": ""
+    },
+    {
+        "id": 74,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Le réglage de l'hélice en plein petit pas au décollage a pour but de:",
+        "choix": [
+            "diminuer la distance de décollage et la pente de montée.",
+            "augmenter la distance de décollage et diminuer la pente de montée.",
+            "diminuer la distance de décollage et augmenter la pente de montée.",
+            "augmenter la distance de décollage et la pente de montée."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 75,
+        "matiere": "Aérodynamique et Mécanique du Vol",
+        "question": "Pour un aéronef en montée rectiligne uniforme, la force de traction de l'hélice est fonction:",
+        "choix": [
+            "uniquement de la traînée.",
+            "de la traînée, du poids et de l'angle de montée.",
+            "uniquement du poids et de la portance.",
+            "du poids et de l'angle de montée."
+        ],
+        "reponse_correcte": 1,
+        "explication": ""
+    },
+    {
+        "id": 76,
+        "matiere": "Étude des Aéronefs",
+        "question": "Parmi ces instruments, celui qui utilise un gyroscope est:",
+        "choix": [
+            "l'horizon artificiel.",
+            "le compas magnétique.",
+            "l'anémomètre.",
+            "le tachymètre."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 77,
+        "matiere": "Étude des Aéronefs",
+        "question": "Quels sont les éléments présents dans une commande de vol mécanique simple d'un avion d'aéroclub?",
+        "choix": [
+            "Câbles et poulies.",
+            "Tuyaux hydrauliques et servo-commande.",
+            "Moteurs électriques et câbles.",
+            "Bielles et pistons."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 78,
+        "matiere": "Étude des Aéronefs",
+        "question": "Dans un moteur à 4 temps, la compression intervient après :",
+        "choix": [
+            "la combustion.",
+            "la détente.",
+            "l'admission.",
+            "l'échappement."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 79,
+        "matiere": "Étude des Aéronefs",
+        "question": "Sur un parapente, la liaison entre les élévateurs et l'aile est assurée par :",
+        "choix": [
+            "des ficelles.",
+            "des cordelettes.",
+            "des lignes.",
+            "des suspentes."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 80,
+        "matiere": "Étude des Aéronefs",
+        "question": "Pour indiquer l'altitude, l'altimètre utilise :",
+        "choix": [
+            "la différence entre la pression totale et la pression dynamique.",
+            "la pression totale.",
+            "la pression dynamique.",
+            "la pression statique."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 81,
+        "matiere": "Étude des Aéronefs",
+        "question": "Les cadres (dans le fuselage) :",
+        "choix": [
+            "ont dans le fuselage le même rôle que les nervures dans les ailes.",
+            "sont situés en bout d'aile pour éviter les tourbillons marginaux.",
+            "sont les pièces maîtresses du fuselage qui supportent les efforts de flexion.",
+            "sont toujours montés par paire pour augmenter leur solidité."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 82,
+        "matiere": "Étude des Aéronefs",
+        "question": "Sur un avion certifié, un moteur à pistons contenant 4 cylindres est pourvu au total de :",
+        "choix": [
+            "2 bougies d'allumage.",
+            "4 bougies d'allumage.",
+            "8 bougies d'allumage.",
+            "0 bougie d'allumage."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 83,
+        "matiere": "Étude des Aéronefs",
+        "question": "Parmi les propositions suivantes, quelle est la mauvaise classification des aéronefs ?",
+        "choix": [
+            "Aérodynes non motorisés : deltaplanes, planeurs",
+            "Aérostat : deltaplane, ballons, dirigeables",
+            "Engins aérospatiaux : lanceurs, fusées",
+            "Engins spatiaux : satellites, sondes"
+        ],
+        "reponse_correcte": 1,
+        "explication": ""
+    },
+    {
+        "id": 84,
+        "matiere": "Étude des Aéronefs",
+        "question": "Un empennage dit « canard » :",
+        "choix": [
+            "est situé à l’avant de l’avion.",
+            "remplace les ailerons.",
+            "est synonyme d’un empennage en V.",
+            "est un propulseur."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 85,
+        "matiere": "Étude des Aéronefs",
+        "question": "En aéromodélisme, un avion d’apprentissage « deux axes » est pilotable sur les axes de :",
+        "choix": [
+            "roulis et lacet.",
+            "roulis uniquement.",
+            "tangage et roulis.",
+            "tangage et lacet."
+        ],
+        "reponse_correcte": 3,
+        "explication": ""
+    },
+    {
+        "id": 86,
+        "matiere": "Navigation, Sécurité et Réglementation",
+        "question": "Pour afficher leur altitude par rapport au niveau moyen de la mer, les pilotes doivent afficher sur leur altimètre un calage :",
+        "choix": [
+            "QNH.",
+            "QFE.",
+            "QFU.",
+            "1013.0."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 87,
+        "matiere": "Navigation, Sécurité et Réglementation",
+        "question": "Un tour de piste main gauche signifie :",
+        "choix": [
+            "que l’avion doit se poser sur la partie gauche de la piste.",
+            "que le pilote doit piloter avec la main gauche pour des raisons de sécurité.",
+            "que le pilote effectue le dernier virage avec la piste à sa gauche.",
+            "que la manche à air est à gauche de la piste."
+        ],
+        "reponse_correcte": 2,
+        "explication": ""
+    },
+    {
+        "id": 88,
+        "matiere": "Histoire de l'Aéronautique",
+        "question": "Un peu avant la Première Guerre mondiale, l'ingénieur Raoul Badin se rend célèbre par une innovation concernant :",
+        "choix": [
+            "un instrument de bord destiné à mesurer la vitesse de l’aéronef par rapport à l’air dans lequel il évolue.",
+            "le tir à travers l'hélice sans heurter les pales.",
+            "la disposition en étoile des cylindres d'un moteur.",
+            "le siège éjectable."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 89,
+        "matiere": "Histoire de l'Aéronautique",
+        "question": "Les premières compétitions aériennes avant la Première Guerre mondiale ont été soutenues par de grands donateurs comme :",
+        "choix": [
+            "Michelin.",
+            "Dassault.",
+            "Chanel.",
+            "Lacoste."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    },
+    {
+        "id": 90,
+        "matiere": "Histoire de l'Aéronautique",
+        "question": "En 1921, Adrienne Bolland fut la première aviatrice à traverser :",
+        "choix": [
+            "la cordillère des Andes.",
+            "les Alpes.",
+            "la Méditerranée entre le continent et la Corse.",
+            "le continent antarctique."
+        ],
+        "reponse_correcte": 0,
+        "explication": ""
+    }
+]
